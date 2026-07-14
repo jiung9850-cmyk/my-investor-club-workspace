@@ -15,13 +15,15 @@
 | 주차 | 한 일 | 남긴 것 | 나의 보강 (다음 세션 전까지) |
 |---|---|---|---|
 | 1주차 | | | |
-| 2주차 | /prep-week2 예습 진행: 로컬/리모트 개념 정리, VC 딜소싱 채널 연습 조사, context.md 첫 시선 등록 | outputs/week2-prep.md, context.md 갱신 | 팀 세부 주제 확정되면 outputs/week2-prep.md를 실제 주제로 다시 조사 |
+| 2주차 | /prep-week2 예습 진행: 로컬/리모트 개념 정리, VC 딜소싱 채널 연습 조사, context.md 첫 시선 등록 | outputs/week2-prep.md, context.md 갱신, outputs/week1-sk-hynix-archive.md(구 레포 산출물 보존) | 팀 세부 주제 확정되면 outputs/week2-prep.md를 실제 주제로 다시 조사. 후속 라운드(토스·당근마켓 등) 실제 사례를 1차 소스로 찾아 unknowns 해소 |
 | 3주차 | | | |
 | 4주차 | | | |
 | 5주차 | | | |
 | 캠프 | | | |
 
 ## 세션 노트
+
+- 2026-07-14: 클럽 커리큘럼 전환 공지 이후 ai-layer → my-investor-club-workspace로 작업실 이전. Week1 SK하이닉스 ADR 판단(context.md 7줄)을 outputs/에 참고자료로 보존. Week2 예습(/prep-week2) 완료. 세 줄 결산: 기준="내 판단은 다른 주체의 검증을 거친 뒤에만 확정한다", 판단="VC 딜소싱 채널 — 새 소스 없음, 후속 라운드 개념만 명확화", 보강="후속 라운드 실제 사례를 1차 소스로 확보"
 
 ## 커리어세션·멘토링에서 생긴 질문
 
